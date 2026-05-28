@@ -447,6 +447,13 @@ with st.expander("ℹ️ Über dieses Programm"):
 **Entwickler/Typ:** Python-basiertes Simulations- und Analysewerkzeug  
 **Kategorie:** Optik-Simulation / Amateurastronomie & Teleskopbau
 
+Hiweis: Mit dem Spiegelrechner soll der Einfluß eines sphärischen Hauptspiegel im Newton-Teleskop veranschaulicht werden 
+- hierzu wird eine effektive Öffung berechnet => erfoderliche Öffnung mit perfekter Optik, die vergleichbaren Kontrast liefert. 
+Die Bildhelligkeit vom "großen, sphärischen" Spiegel bleibt unberücksichtig, es wird nur die Kontrastwahrnehmung veranschaulicht und 
+Werte für die Vergrößerung angegeben, ab wann die spiegelbedingte Unschärfe erkennbar wird..... 
+Das Programm erhebt keinen Anspruch auf mathematische Korrektheit, soll nur groben Anhaltspunkt liefern.....
+
+
 ---
 
 ## Auf einen Blick
@@ -519,6 +526,12 @@ berühmten 114/900 mm f/8 Kugelspiegel) am grünen Tisch schlechtzurechnen. Durc
 Verknüpfung von Wellenphysik und Augen-Physiologie liefert das Programm Ergebnisse, die zu fast
 100 % mit den realen Erfahrungen am Nachthimmel übereinstimmen. Für Teleskopbauer,
 Optik-Interessierte und Kaufinteressierte eine uneingeschränkte Empfehlung!
+
+Hiweis: Mit dem Spiegelrechner soll der Einfluß eines sphärischen Hauptspiegel im Newton-Teleskop veranschaulicht werden 
+- hierzu wird eine effektive Öffung berechnet => erfoderliche Öffnung mit perfekter Optik, die vergleichbaren Kontrast liefert. 
+Die Bildhelligkeit vom "großen, sphärischen" Spiegel bleibt unberücksichtig, es wird nur die Kontrastwahrnehmung veranschaulicht und 
+Werte für die Vergrößerung angegeben, ab wann die spiegelbedingte Unschärfe erkennbar wird..... 
+Das Programm erhebt keinen Anspruch auf mathematische Korrektheit, soll nur groben Anhaltspunkt liefern.....
 
 **Gesamtnote: 5 von 5 Sternen (5/5)**
 """)
